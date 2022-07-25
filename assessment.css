@@ -42,7 +42,8 @@
 }
 
 blockquote{
-  background-color: skyblue;
+  background-color: black;
+  color: white;
 }
 
 #checkbox-grid{
